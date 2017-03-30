@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Crudwell Strawberry Fayre
+title: 30th Crudwell Strawberry Fayre
 
 # Short description of your site
 description: Crudwell Strawberry Fayre Website
@@ -26,10 +26,12 @@ navbar-links:
   Home: ""
   Our Church: "church"
   Events:
+    - Music: "music"
+    - Workshops: "workshops"
     - Sizzle & Swing: "sizzle"
     - Teddy Jump: "teddy"
-  Booklet: "booklet"
   Info:
+    - Booklet: "booklet"
     - Location: "location"
     - Contact: "contact"
 
