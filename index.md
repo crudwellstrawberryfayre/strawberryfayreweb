@@ -15,6 +15,7 @@ To celebrate 30 years of the Crudwell Strawberry Fayre, this year we have organi
 
 # Menu
  - Strawberries
+ - Prosecco!
  - More strawberries
 
 ![The Fayre](/img/fayre1.jpg)
