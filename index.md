@@ -1,23 +1,19 @@
 ---
 layout: page
 title: 30th Crudwell Strawberry Fayre
-subtitle: 8th-9th July 2017
+subtitle: 7th-9th July 2017
 bigimg: /img/strawberries.jpg
 ---
 
-# Strawberries and ~~cream~~ music!
+# It's a musical a-fayre!
 
-To celebrate 30 years of the Crudwell Strawberry Fayre, this year we have organised a whole selction of musical events and activities. Of course, there will still be plenty of strawberries and cream!
+This year, to celebrate 30 years, we have a musical theme. There will be performances, workshops and plenty to get involved in throughout the weekend, all kicked off by an evening performance by the Dursley Male Voice Choir on the Firday evening. Of course, there will also be plenty of strawberries and cream!
 
-# Come and eat lots of strawberries!!!!!
+
+# Under construction
+
+The website is still under construction. More information about all the musical events will be coming soon!
 
 ![The Fayre](/img/fayre0.jpg)
 
-# Menu
- - Strawberries
- - Prosecco!
- - More strawberries
 
-![The Fayre](/img/fayre1.jpg)
-
-![The Fayre](/img/fayre2.jpg)
