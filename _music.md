@@ -3,7 +3,7 @@ layout: page
 title: Music
 ---
 
-We have organised a whole variety of music for you to enjoy while eating your strawberries. If you are feeling like you want to join in, why not try one of our [workshops?](/workshops)
+We have organised a whole variety of music for you to enjoy while eating your strawberries. Feel like you want to join in? Why not try one of our [workshops?](/workshops)
 
 
 # Schedule
@@ -15,20 +15,20 @@ We have organised a whole variety of music for you to enjoy while eating your st
 
 ## Saturday 8th July
 
-| What | When |
-| --- | --- |
-| Andrew Jupp | 12pm - 12:30pm |
-| Crudwell Primary School | 12:40pm - 1:20pm |
-| Sweet Nightingale | 1:30pm - 2:15pm |
-| Sam Salter | 2:30pm - 3pm |
+| When | Who | What |
+| --- | --- | --- |
+| 12pm - 12:30pm | Andrew Jupp | Piano accordionist | 
+| 12:40pm - 1:20pm | Crudwell Primary School | Choir and individual performances |
+| 1:30pm - 2:15pm | Sweet Nightingale | Acoustic duo, voice and guitar |
+| 2:30pm - 3pm | Sam Salter | Guitar, piano and vocals |
+
 
 ## Sunday 9th July
 
-| What | When |
-| --- | --- |
-| Andrew Jupp | 12pm - 12:30pm |
-| Mal Rogers | 12:45pm - 1:45pm |
-| Fourtunes Quartet | 2pm - 3pm |
-
+| When | Who | What |
+| --- | --- | --- |
+| 12pm - 12:30pm | Andrew Jupp | Piano accordionist | 
+| 12:45pm - 1:45pm | Mal Rogers  | Folk fiddle, mandolin and guitar |
+| 2pm - 3pm | Fourtunes Quartet | Saxophone quartet |
 
 
