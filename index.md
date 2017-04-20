@@ -23,7 +23,7 @@ All proceeds from the event go to the village [church](/church).
 Dursley Male Voice Choir will be performing in Crudwell Church at 7:30pm. *More information coming soon.*
 
 ## 8th-9th July
-The Strawberry Fayre will be in full swing. Strawberries, cream and prosecco will be available on the village green with musical performances while you eat and drink. Workshops will be run in the church and there will be market stalls selling local produce. *More information coming soon.*  
+The Strawberry Fayre will be in full swing. Strawberries, cream and prosecco will be available on the village green with musical performances while you eat and drink. Workshops will be run in the church and there will be market stalls selling local produce. On the Saturday evening the popular Sizzle and Swing will be returning, a  time for all to come and enjoy live music with a tasty barbeque.
 
 
 # Under construction
