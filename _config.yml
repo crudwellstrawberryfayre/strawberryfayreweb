@@ -150,6 +150,8 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
+  - Dockerfile
+  - deploy.sh
 
 # prose.io config
 prose:
