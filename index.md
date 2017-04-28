@@ -32,4 +32,6 @@ The website is still under construction. More information about all events will 
 
 ![The Fayre](/img/fayre0.jpg)
 
+<br>
 
+Title image ["Strawberries"](https://www.flickr.com/photos/notionscapital/14146812808/) by [notionscapital](https://www.flickr.com/photos/notionscapital/) licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / Cropped and resized from original
