@@ -34,4 +34,5 @@ The website is still under construction. More information about all events will 
 
 <br>
 
-Title image ["Strawberries"](https://www.flickr.com/photos/notionscapital/14146812808/) by [notionscapital](https://www.flickr.com/photos/notionscapital/) licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / Cropped and resized from original
+<h5><small>
+Title image <a href="https://www.flickr.com/photos/notionscapital/14146812808/">"Strawberries"</a> by <a href="https://www.flickr.com/photos/notionscapital/">notionscapital</a> licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 20</a> / Cropped and resized from original</small></h5>
