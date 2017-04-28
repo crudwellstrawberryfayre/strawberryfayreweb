@@ -8,7 +8,7 @@ All proceeds from the Strawberry Fayre go to the All Saints Church in Crudwell. 
 
 The church plays a key role over the Strawberry Fayre weekend, hosting the musical workshops and the popular teddy bear parachute jump on the Sunday morning.
 
-For more information about the church, see the [website.](https://crudwellchurch.co.uk/)
+For more information about the church, see the [website.](http://www.braydonbrook.co.uk/crudwell-home.html)
 
 
 ![All Saints Church](/img/church.jpg)
