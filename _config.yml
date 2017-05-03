@@ -26,7 +26,14 @@ navbar-links:
   Home: ""
   Our Church: "church"
   Events:
-    - Coming Soon: "#"
+    - Dursley Male Voice Choir: "choir"
+    - Sizzle & Swing: "sizzle"
+    - Music: "music"
+    - Workshops: "workshops"
+    - Market: "market"
+    - Teddy Bear Jump: "teddy"
+    - Raffle: "raffle"
+   
   Info:
     - Location: "location"
     - Contact: "contact"
