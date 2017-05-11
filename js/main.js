@@ -14,7 +14,29 @@ var main = {
             $(".navbar").removeClass("top-nav-short");
         }
     });
-    
+
+    // Stop headings from being hidden by navbar when using internal links
+    // http://stackoverflow.com/questions/11513853/how-can-i-use-html-id-links-with-the-bootstrap-navbar-header  
+    // listen for click events originating from elements with href starting with #
+    $('body').on('click.scroll-adjust', '[href^="#"]', function (e) {
+		    //var $nav;
+
+		    // make sure navigation hasn't already been prevented
+		    //if ( e && e.isDefaultPrevented() ) return;
+
+		    // get a reference to the offending navbar
+		    // $nav = $('div.navbar');
+
+		    // check if the navbar is fixed
+		    //if ( $(".navbar").css('position') !== "fixed" ) return;
+
+		    // listen for when the browser performs the scroll
+		    $(window).one('scroll', function () {
+				    // scroll the window up by the height of the navbar
+				    window.scrollBy(0, -$(".navbar").height());
+		    });
+    });
+
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");

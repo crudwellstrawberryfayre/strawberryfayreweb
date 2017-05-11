@@ -26,7 +26,6 @@ navbar-links:
   Home: ""
   Our Church: "church"
   Events:
-    - Dursley Male Voice Choir: "choir"
     - Sizzle & Swing: "sizzle"
     - Music: "music"
     - Workshops: "workshops"
@@ -35,6 +34,7 @@ navbar-links:
     - Raffle: "raffle"
    
   Info:
+    - Menu: "menu"
     - Location: "location"
     - Contact: "contact"
 
