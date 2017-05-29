@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 30th Crudwell Strawberry Fayre
-subtitle: 7th-9th July 2017
+title: Crudwell Strawberry Fayre
+subtitle: 30th Anniversary<br>7th-9th July 2017
 bigimg: /img/strawberries.jpg
 ---
 
@@ -23,12 +23,7 @@ All proceeds from the event go to the village [church](/church).
 Dursley Male Voice Choir will be performing in Crudwell Church at 7:30pm. [More info.](/music/#dursley-male-voice-choir)
 
 ## 8th-9th July
-The Strawberry Fayre will be in full swing. Strawberries, cream and prosecco will be available on the village green with [musical performances](/music) while you eat and drink. [Workshops](/workshops) will be run in the church and there will be [market stalls](/market) selling local produce. On the Saturday evening the popular [Sizzle and Swing](/sizzle) will be returning, a time for all to come and enjoy live music with a tasty barbeque.
-
-
-# Under construction
-
-The website is still under construction. More information about all events will be coming soon!
+The Strawberry Fayre will be in full swing. Strawberries, cream and prosecco will be available on the village green with [musical performances](/music) while you eat and drink. [Workshops](/workshops) will be run in the church and there will be market stalls selling local products and produce. On the Saturday evening the popular [Sizzle and Swing](/sizzle) will be returning, a time for all to come and enjoy live music with a tasty barbeque.
 
 ![The Fayre](/img/fayre0.jpg)
 

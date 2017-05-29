@@ -6,7 +6,7 @@ title: Contact
 For further information please contact us:
 
 
-<form action="https://formspree.io/info@crudwellstrawberryfayre.co.uk" method="POST">
+<form action="https://formspree.io/sales@crudwellstrawberryfayre.co.uk" method="POST">
   <div class="form-group">
     <label for="email">Email address:</label>
     <input type="email" class="form-control" id="email" name="_replyto">
@@ -21,6 +21,6 @@ For further information please contact us:
 </form>
 
 
-**Email:** <info@crudwellstrawberryfayre.co.uk>
+**Email:** <sales@crudwellstrawberryfayre.co.uk>
 
 **Tel:** 01666 825989

@@ -10,10 +10,9 @@ We have organised a whole variety of music for you to enjoy while eating your st
 
 ## Friday 7th July
 
-To kick-off the weekend [Dursley Male Voice Choir](#dursley-male-voice-choir) will be performing in the All Saints Church.
+To kick-off the weekend the award-winning [Dursley Male Voice Choir](#dursley-male-voice-choir) will be performing in the All Saints Church. Tickets cost £8 (£4 for children under 10yrs) and include a beverage. 
 
-This costs blah blah blah
-
+Tickets to be bought in advance from Crudwell Post office or by [contacting us](/contact).
 
 ## Saturday 8th July
 
@@ -34,18 +33,20 @@ This costs blah blah blah
 | 2pm - 3pm | [Fourtunes Quartet](#fourtunes-quartet) | Saxophone quartet |
 
 
-
+<br>
 
 # About
 
 ## Dursley Male Voice Choir
 
-Dursley Male Voice choir  7.30pm at Crudwell Church £8.00 Adults, £4.00 Children. Includes Beverage. (poster in documents folder) Info:
+#### 7th July - 7:30pm - Crudwell Church
 
 The Dursley Male Voice Choir was founded by a group of enthusistic singinger in 1978 and has since grown to be one of the principal male choirs of the region with up to 70 singers drawn from all over the area. As well as local concerts the choir has performed at many venues across the UK.
 The choir has achieved notable success in several competitions on the BBC and HTV in 1982/3/4 and 1986, including being semi–finalists in the BBC Male Voice Choir Choir of the Year competition.Successes also followed in competitions in Cornwall (1990) and to some measure in Huddersfield (1991). First place was also gained in the prestigious Miners’ Eisteddfod in Porthcawl in 1996. More recently in 2009 the choir was awarded third place in the Cornwall International Music Festival against strong competition.
 
-More info can be found at www.dursleymalechoir.org.uk
+More info can be found at [www.dursleymalechoir.org.uk](http://www.dursleymalechoir.org.uk).
+
+Tickets to be bought in advance from Crudwell Post office or by [contacting us](/contact).
 
 ## Andrew Jupp
 <div class="row"><div class="col-sm-8">

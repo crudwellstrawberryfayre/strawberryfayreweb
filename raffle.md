@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Raffle
-subtitle: Saturday 8th July ???pm
+subtitle: Sunday 9th July 4pm
 ---
 
-This years raffle promises to be bigger than ever!
+This years raffle promises to be bigger than ever! To celebrate 30 years there will be 30 amazing prizes.
 
 ## Top Prize
 
-Champagne and afternooon tea for two at Highgrove estate, privatley chaperoned by Prince Charles' favourite guide - generously donated by The Prince of Wales Charitable Foundation.
+Champagne and afternooon tea for two at Highgrove estate, privatley chaperoned by a specialist tour guide - generously donated by The Prince of Wales Charitable Foundation.
 
 ## Other prizes
 

@@ -7,16 +7,25 @@ We have organised a selection of music-related workshops:
 
 | What                              | When             | Where             |
 | --------------------------------- | ---------------- | ----------------- |
-|[African Drumming](#african-drumming-workshop) | Sat 8th July - 10:30am             | All Saints Church |
-|[Singing](#singing-workshop)       | Sat 8th July - 3:45pm              | All Saints Church |
-|[Harp](#harp-workshop)             | Sun 9th July - 12pm & 2pm              | All Saints Church |
+|[Singing](#singing-workshop)       | Sat 8th July - 10:30am              | All Saints Church |
+|[African Drumming](#african-drumming-workshop) | Sat 8th July - 3:45pm   | All Saints Church |
+|[Harp](#harp-workshop)             | Sun 9th July - 12pm & 2pm           | All Saints Church |
 
 
+## Singing Workshop
+
+**Saturday 8th at 10:30am - 11:15am**
+<br>
+**All abilities welcome. 7yrs+. Limited to 18 places**
+
+This workshop is open to all abilities whether you sing in your shower or have some experience. Singing is a great way to relieve stress and increase happy endorphins in the body.  You will learn techniques in breath control, diaphragmatic support and tone.  You will also be introduced to the different sounds and technqiues used in different musical genres.  You will be humming away for the rest of the day!
+
+Tickets cost £5 and can be booked using the form [below](#booking).
 
 
 ## African Drumming Workshop
 
-**Saturday 8th at 10.30am - 45 mins**
+**Saturday 8th at 3:45pm - 4:30pm**
 <br>
 **All abilities welcome. 8yrs+. Limited to 15 places**
 
@@ -24,15 +33,6 @@ An energetic, fun-filled workshop that will have you buzzing and dancing by the 
 
 Tickets cost £5 and can be booked using the form [below](#booking).
 
-## Singing Workshop
-
-**Saturday 8th at 3.45pm - 45 mins**
-<br>
-**All abilities welcome. 7yrs+. Limited to 18 places**
-
-This workshop is open to all abilities whether you sing in your shower or have some experience. Singing is a great way to relieve stress and increase happy endorphins in the body.  You will learn techniques in breath control, diaphragmatic support and tone.  You will also be introduced to the different sounds and technqiues used in different musical genres.  You will be humming away for the rest of the day!
-
-Tickets cost £5 and can be booked using the form [below](#booking).
 
 ## Harp Workshop
 
