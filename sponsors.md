@@ -1,21 +1,31 @@
 ---
 layout: page
-title: Sponsors
+title: Sponsors and Donors
 ---
 
-Our main sponsors, in no particular order:
-
-- AC Nurden
-- Abbey Printing Ltd.
-- The James Dyson Foundation
-- CAC Kemble
+- Flying Monk Brewery
+- Thames Head
+- James Dyson Foundation
+- Mayfield House Hotel
+- Alvan Blanch Ltd
+- CSJ Music
+- Prince of Wales Charitable foundation
+- Ben Kelly Photography.
+- Blunsdon House Hotel
+- Primrose Vale PYO
+- DBS Refrigeration Ltd
+- Little Earthquake Pots
+- The Wheatsheaf Inn
+- The Potting Shed
+- Waitrose
 - Richardson Marquees
 - Crudwell Post Office
-- Henry Birtles Associates
-- Hayleaze Farm
-- The Potting Shed
-- The Mayfield House Hotel
-- DBS Portable Refrigeration
-- The Wheatsheaf Inn
-- Spot On Supplies
-- The Rectory Hotel
+- Perfection Health and Beauty
+- Cuttin ‘Um Palace
+- Jo and Barry Wood
+- AC Nurden Ltd
+- Fleetfind Ltd,
+- Chris and Fiona Hart
+- Ann and Jeremy Lodwick
+- Jenny and Jonathan Blanch 
+- Persephone Violet
