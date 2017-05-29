@@ -19,7 +19,7 @@ Champagne and afternooon tea for two at Highgrove estate, privatley chaperoned b
 - Ben Kelly Photography session
 - Bottle of Champagne 
 - Bottle of Wine 
-- Personal Training Session
+- Personal Training Session from Graeme Hilditch
 - 1/2 a Lamb 
 - Ukulele
 - Afternoon tea for Two and the Blunsdon House Hotel
@@ -33,7 +33,7 @@ Champagne and afternooon tea for two at Highgrove estate, privatley chaperoned b
 - Darlington Vase
 - £5.00 John Lewis Voucher
 - 30 minute Massage Voucher from Perfection Health and Beauty Malmesbury
-- Plant donated by Persephone Violet Malmesbury 
+- Plant donated by Acacia Floristry, Malmesbury 
 - £50 cash prize
 - Blow dry from Cuttin 'Um Palace
 
