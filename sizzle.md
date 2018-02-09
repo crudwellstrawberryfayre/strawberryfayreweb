@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sizzle & Swing
-subtitle: Saturday 8th July 7:00pm
+subtitle: Saturday 14th July 7:00pm
 ---
 
 Tap your feet or dance to the Big Band sound of The JJ Swing Band

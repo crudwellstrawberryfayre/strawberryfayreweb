@@ -3,35 +3,21 @@ layout: page
 title: Music
 ---
 
-We have organised a whole variety of music for you to enjoy while eating your strawberries. Feel like you want to join in? Why not try one of our [workshops?](/workshops)
-
-
 # Schedule
 
-## Friday 7th July
+## Friday 13th July
 
 To kick-off the weekend the award-winning [Dursley Male Voice Choir](#dursley-male-voice-choir) will be performing in the All Saints Church. Tickets cost £8 (£4 for children under 10yrs) and include a beverage. 
 
 Tickets to be bought in advance from Crudwell Post office or by [contacting us](/contact).
 
-## Saturday 8th July
+## Saturday 14th July
 
-| When | Who | What |
-| --- | --- | --- |
-| 12pm - 12:30pm | [Andrew Jupp](#andrew-jupp) | Piano accordionist | 
-| 12:40pm - 1:20pm | [Crudwell Primary School](#crudwell-primary-school) | Choir and individual performances |
-| 1:30pm - 2:15pm | [Sweet Nightingale](#sweet-nightingale) | Acoustic duo, voice and guitar |
-| 2:30pm - 3pm | [Sam Salter](#sam-salter) | Guitar, piano and vocals |
+Schedule coming soon.
 
+## Sunday 15th July
 
-## Sunday 9th July
-
-| When | Who | What |
-| --- | --- | --- |
-| 12pm - 12:30pm | [Andrew Jupp](#andrew-jupp) | Piano accordionist | 
-| 12:45pm - 1:45pm | [Mal Rogers](#mal-rogers)  | Folk fiddle, mandolin and guitar |
-| 2pm - 3pm | [Fourtunes Quartet](#fourtunes-quartet) | Saxophone quartet |
-
+Schedule coming soon.
 
 <br>
 
@@ -39,7 +25,7 @@ Tickets to be bought in advance from Crudwell Post office or by [contacting us](
 
 ## Dursley Male Voice Choir
 
-#### 7th July - 7:30pm - Crudwell Church
+#### 13th July - 7:30pm - Crudwell Church
 
 The Dursley Male Voice Choir was founded by a group of enthusistic singinger in 1978 and has since grown to be one of the principal male choirs of the region with up to 70 singers drawn from all over the area. As well as local concerts the choir has performed at many venues across the UK.
 The choir has achieved notable success in several competitions on the BBC and HTV in 1982/3/4 and 1986, including being semi–finalists in the BBC Male Voice Choir Choir of the Year competition.Successes also followed in competitions in Cornwall (1990) and to some measure in Huddersfield (1991). First place was also gained in the prestigious Miners’ Eisteddfod in Porthcawl in 1996. More recently in 2009 the choir was awarded third place in the Cornwall International Music Festival against strong competition.
@@ -47,13 +33,6 @@ The choir has achieved notable success in several competitions on the BBC and HT
 More info can be found at [www.dursleymalechoir.org.uk](http://www.dursleymalechoir.org.uk).
 
 Tickets to be bought in advance from Crudwell Post office or by [contacting us](/contact).
-
-## Andrew Jupp
-<div class="row"><div class="col-sm-8">
-Andrew Jupp has been playing the piano accordion since the age of 17. He has played in a range of folk and dance bands, but now plays mainly solo for enjoyment, family and friends, and for barn dances where he also “calls” the dances. His style is traditional English folk dance, Scottish dance, and American folk. He has led a number of church worship groups and in particular, children’s worship songs.
-</div><div class="col-sm-4">
-<img class="img-responsive" src="/img/andrewjupp.jpg">
-</div></div>
 
 ## Crudwell Primary School
 
@@ -71,16 +50,3 @@ Sam was formed in Cornwall in the early 1980s, from just two cells. He is not a 
 <img class="img-responsive" src="/img/samsalter.jpg">
 </div></div>
 
-## Mal Rogers
-<div class="row"><div class="col-sm-8">
-Mal is a fiddle player, mandolin player, guitarist and singer originally from Co. Down in Northern Ireland. He plays a selection of Irish and Scottish folk and traditional music.
-</div><div class="col-sm-4">
-<img class="img-responsive" src="/img/malrogers.jpg">
-</div></div>
-
-## Fourtunes Quartet
-<div class="row"><div class="col-sm-8">
-The Fortunes Saxaphone Quartet comprimises Janet Roe on Soprano, Katie Hawkins on Alto, Sarah Grigg on tenor and Jermemy Hawkins on Baritone. They are a local group hailing from Swindon (janet), Purton (Sarah) and Crudwell (katie and Jeremy). They’ve been performing together for several years and their varied repetoire ranges from clasiical to pop (with lots in between!). They have performed at the Strawberry Fayre several times and are pleased to be doing so again in 2017.
-</div><div class="col-sm-4">
-<img class="img-responsive" src="/img/fourtunes.jpg">
-</div></div>
