@@ -5,6 +5,11 @@ subtitle: 13th-15th July 2018
 bigimg: /img/strawberries.jpg
 ---
 
+# It's a wedding a-fayre!
+
+This year we have a wedding theme to celebrate the royal wedding of the Duke and Duchess of Sussex.
+
+
 # About
 
 The Crudwell Strawberry Fayre is an event to bring the whole community together. People of all ages descend on the village green to enjoy wonderful juicy strawberries.

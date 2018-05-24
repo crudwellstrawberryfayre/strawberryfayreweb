@@ -13,11 +13,22 @@ Tickets to be bought in advance from Crudwell Post office or by [contacting us](
 
 ## Saturday 14th July
 
-Schedule coming soon.
+| When | Who | What |
+| --- | --- | --- |
+| 12:30pm - 1pm | [Andrew Jupp](#andrew-jupp) | Piano accordionist | 
+| 1:10pm - 1:40pm | [Crudwell Primary School](#crudwell-primary-school) | Choir and individual performances |
+| 1:45pm - 2:45pm | [Mal Rogers](#mal-rogers)  | Folk fiddle, mandolin and guitar |
+| 3pm - 4pm | [Fourtunes Quartet](#fourtunes-quartet) | Saxophone quartet |
+
 
 ## Sunday 15th July
 
-Schedule coming soon.
+| When | Who | What |
+| --- | --- | --- |
+| 12:30pm - 1pm | [Andrew Jupp](#andrew-jupp) | Piano accordionist | 
+| 1:15pm - 2:15pm | TBA | |
+| 2:30pm - 3:45pm | [Sweet Nightingale](#sweet-nightingale) | Acoustic duo, voice and guitar |
+
 
 <br>
 
@@ -34,7 +45,13 @@ More info can be found at [www.dursleymalechoir.org.uk](http://www.dursleymalech
 
 Tickets to be bought in advance from Crudwell Post office or by [contacting us](/contact).
 
-## Crudwell Primary School
+## Andrew Jupp
+<div class="row"><div class="col-sm-8">
+Andrew Jupp has been playing the piano accordion since the age of 17. He has played in a range of folk and dance bands, but now plays mainly solo for enjoyment, family and friends, and for barn dances where he also “calls” the dances. His style is traditional English folk dance, Scottish dance, and American folk. He has led a number of church worship groups and in particular, children’s worship songs.
+</div><div class="col-sm-4">
+<img class="img-responsive" src="/img/andrewjupp.jpg">
+</div></div>
+
 
 ## Sweet Nightingale
 <div class="row"><div class="col-sm-8">
@@ -43,10 +60,17 @@ One guitar, two voices, beautiful harmonies and music for your inner songbird. W
 <img class="img-responsive" src="/img/sweetnightingale.jpg">
 </div></div>
 
-## Sam Salter
+## Mal Rogers
 <div class="row"><div class="col-sm-8">
-Sam was formed in Cornwall in the early 1980s, from just two cells. He is not a mutant, and is not on the run from a shady government organisation. He attended more than a few educational establishments, and several places of employment, some of them rather Far Away, before arriving in Crudwell where he lives on Tuners Lane (in a house). A number of noises were emitted throughout those years, some of which he eventually learned to replicate on demand - and it is those very noises which you may hear if you attend this event.
+Mal is a fiddle player, mandolin player, guitarist and singer originally from Co. Down in Northern Ireland. He plays a selection of Irish and Scottish folk and traditional music.
 </div><div class="col-sm-4">
-<img class="img-responsive" src="/img/samsalter.jpg">
+<img class="img-responsive" src="/img/malrogers.jpg">
+</div></div>
+
+## Fourtunes Quartet
+<div class="row"><div class="col-sm-8">
+The Fortunes Saxaphone Quartet comprimises Janet Roe on Soprano, Katie Hawkins on Alto, Sarah Grigg on tenor and Jermemy Hawkins on Baritone. They are a local group hailing from Swindon (janet), Purton (Sarah) and Crudwell (katie and Jeremy). They’ve been performing together for several years and their varied repetoire ranges from clasiical to pop (with lots in between!). They have performed at the Strawberry Fayre several times and are pleased to be doing so again in 2017.
+</div><div class="col-sm-4">
+<img class="img-responsive" src="/img/fourtunes.jpg">
 </div></div>
 
