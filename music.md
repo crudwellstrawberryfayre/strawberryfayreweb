@@ -26,7 +26,7 @@ Tickets to be bought in advance from Crudwell Post office or by [contacting us](
 | When | Who | What |
 | --- | --- | --- |
 | 12:30pm - 1pm | [Andrew Jupp](#andrew-jupp) | Piano accordionist | 
-| 1:15pm - 2:15pm | TBA | |
+| 1:15pm - 2:15pm | [Cate Griffin](#cate-griffin) | Banjo player and vocalist |
 | 2:30pm - 3:45pm | [Sweet Nightingale](#sweet-nightingale) | Acoustic duo, voice and guitar |
 
 
@@ -74,3 +74,7 @@ The Fortunes Saxaphone Quartet comprimises Janet Roe on Soprano, Katie Hawkins o
 <img class="img-responsive" src="/img/fourtunes.jpg">
 </div></div>
 
+## Cate Griffin
+<div class="row"><div class="col-sm-8">
+Cate is a banjo player and vocalist from Cirencester fusing folk genres from around the world.
+</div></div>
