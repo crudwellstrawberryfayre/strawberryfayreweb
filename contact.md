@@ -23,4 +23,4 @@ For further information please contact us:
 
 **Email:** <sales@crudwellstrawberryfayre.co.uk>
 
-**Tel:** 01666 825989
+**Tel:** 01666 577122

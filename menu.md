@@ -19,9 +19,9 @@ title: Menu
 
 ## Drink
 
-| Coffee | 90p |
-| Tea | 80p |
-| Strawberry herbal tea | 80p |
+| Coffee | £1 |
+| Tea | £1 |
+| Strawberry herbal tea | £1 |
 | Squash (orange, lemon or blackcurrant) | 40p |
-| Fizzy drink (coke, lemonade, diet coke, diet lemonade) | 60p |
+| Fizzy drink (coke, lemonade, diet coke, diet lemonade) | £1 |
 | Prosecco | £3.50 |

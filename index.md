@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Crudwell Strawberry Fayre
-subtitle: 13th-15th July 2018
+subtitle: 12th-14th July 2019
 bigimg: /img/strawberries.jpg
 ---
-
-# It's a wedding a-fayre!
-
-This year we have a wedding theme to celebrate the royal wedding of the Duke and Duchess of Sussex.
-
 
 # About
 
@@ -21,10 +16,10 @@ All proceeds from the event go to the village [church](/church).
 
 # Schedule
 
-## 13th July
+## 12th July
 Dursley Male Voice Choir will be performing in Crudwell Church at 7:30pm. [More info.](/music/#dursley-male-voice-choir)
 
-## 14th-15th July
+## 13th-14th July
 The Strawberry Fayre will be in full swing. Strawberries, cream and prosecco will be available on the village green with [musical performances](/music) while you eat and drink. Workshops will be run in the church and there will be market stalls selling local products and produce. On the Saturday evening the popular [Sizzle and Swing](/sizzle) will be returning, a time for all to come and enjoy live music with a tasty barbeque.
 
 
